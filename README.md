@@ -1,4 +1,4 @@
-# Análise de Dados com Pandas e Python :panda_face:
+# Análise de Dados com Pandas e Python :panda_face:  :snake:
 
 ## Curso Análise de Dados com Pandas e Python [Digital Innovation One](https://digitalinnovation.one/)
 
